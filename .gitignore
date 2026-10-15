@@ -1,0 +1,20 @@
+# Archivos de fuentes y paquetes tarball
+*.tar.*
+*.tar
+*.gz
+*.bz2
+*.xz
+
+# Imágenes de disco y máquinas virtuales
+*.iso
+*.vdi
+*.vmdk
+*.qcow2
+*.img
+
+# Credenciales, llaves privadas y secretos
+id_rsa*
+*.pem
+*.key
+secrets.*
+.env
