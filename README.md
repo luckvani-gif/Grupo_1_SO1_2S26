@@ -1,2 +1,5 @@
-| Nombre de grupo | Integrantes | Versión del libro utilizada |
-| Grupo 1 | Integrantes: Mauricio Pecci, Vanessa Ricciardi | Libro utilizado: Linux From Scratch,Version 13.1-systemd, Publicado el 1° de Septiembre de 2026
+# Sistemas Operativos
+## Trabajo Práctico - LFS
+### Grupo 1 
+**Integrantes:** Mauricio Pecci, Vanessa Ricciardi 
+**Libro utilizado:** Linux From Scratch,Version 13.1-systemd, Publicado el 1° de Septiembre de 2026
