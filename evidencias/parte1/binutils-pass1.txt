@@ -1,0 +1,17 @@
+total 107964
+-rwxr-xr-x. 1 lfs lfs  6366912 Nov 20 01:40 x86_64-lfs-linux-gnu-addr2line
+-rwxr-xr-x. 2 lfs lfs  6528112 Nov 20 01:40 x86_64-lfs-linux-gnu-ar
+-rwxr-xr-x. 2 lfs lfs  9177928 Nov 20 01:40 x86_64-lfs-linux-gnu-as
+-rwxr-xr-x. 1 lfs lfs  6310920 Nov 20 01:40 x86_64-lfs-linux-gnu-c++filt
+-rwxr-xr-x. 1 lfs lfs   120120 Nov 20 01:40 x86_64-lfs-linux-gnu-elfedit
+-rwxr-xr-x. 1 lfs lfs  6911608 Nov 20 01:40 x86_64-lfs-linux-gnu-gprof
+-rwxr-xr-x. 4 lfs lfs 10323376 Nov 20 01:40 x86_64-lfs-linux-gnu-ld
+-rwxr-xr-x. 4 lfs lfs 10323376 Nov 20 01:40 x86_64-lfs-linux-gnu-ld.bfd
+-rwxr-xr-x. 2 lfs lfs  6432656 Nov 20 01:40 x86_64-lfs-linux-gnu-nm
+-rwxr-xr-x. 2 lfs lfs  7094168 Nov 20 01:40 x86_64-lfs-linux-gnu-objcopy
+-rwxr-xr-x. 2 lfs lfs 10496416 Nov 20 01:40 x86_64-lfs-linux-gnu-objdump
+-rwxr-xr-x. 2 lfs lfs  6506088 Nov 20 01:40 x86_64-lfs-linux-gnu-ranlib
+-rwxr-xr-x. 2 lfs lfs  4197096 Nov 20 01:40 x86_64-lfs-linux-gnu-readelf
+-rwxr-xr-x. 1 lfs lfs  6354584 Nov 20 01:40 x86_64-lfs-linux-gnu-size
+-rwxr-xr-x. 1 lfs lfs  6369072 Nov 20 01:40 x86_64-lfs-linux-gnu-strings
+-rwxr-xr-x. 2 lfs lfs  7014712 Nov 20 01:40 x86_64-lfs-linux-gnu-strip
