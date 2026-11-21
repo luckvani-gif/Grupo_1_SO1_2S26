@@ -1,0 +1,16 @@
+drwxr-xr-x. 16 lfs lfs 4096 Nov 21 02:18 /mnt/lfs/usr/include
+drwxr-xr-x.  2 lfs lfs  4096 Nov 21 02:18 /mnt/lfs/usr/include/asm
+drwxr-xr-x.  2 lfs lfs  4096 Nov 21 02:18 /mnt/lfs/usr/include/asm-generic
+drwxr-xr-x.  2 lfs lfs  4096 Nov 21 02:18 /mnt/lfs/usr/include/drm
+drwxr-xr-x. 30 lfs lfs 24576 Nov 21 02:18 /mnt/lfs/usr/include/linux
+drwxr-xr-x.  3 lfs lfs  4096 Nov 21 02:18 /mnt/lfs/usr/include/misc
+drwxr-xr-x.  2 lfs lfs  4096 Nov 21 02:18 /mnt/lfs/usr/include/mtd
+drwxr-xr-x.  3 lfs lfs  4096 Nov 21 02:18 /mnt/lfs/usr/include/rdma
+drwxr-xr-x.  3 lfs lfs  4096 Nov 21 02:18 /mnt/lfs/usr/include/scsi
+drwxr-xr-x.  4 lfs lfs  4096 Nov 21 02:18 /mnt/lfs/usr/include/sound
+drwxr-xr-x.  2 lfs lfs  4096 Nov 21 02:18 /mnt/lfs/usr/include/video
+drwxr-xr-x.  2 lfs lfs  4096 Nov 21 02:18 /mnt/lfs/usr/include/xen
+-rw-r--r--. 1 lfs lfs 1829 Nov 21 02:18 /mnt/lfs/usr/include/linux/types.h
+-rw-r--r--. 1 lfs lfs 215 Nov 21 02:18 /mnt/lfs/usr/include/linux/version.h
+-rw-r--r--. 1 lfs lfs 623 Nov 21 02:18 /mnt/lfs/usr/include/asm/unistd.h
+1032
